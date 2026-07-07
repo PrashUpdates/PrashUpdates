@@ -76,16 +76,13 @@ const prashant = {
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PrashUpdates&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashUpdates&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+![](https://github-readme-stats.shion.dev/api?username=PrashUpdates&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)
 
-<p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=PrashUpdates&theme=github-dark&hide_border=true"/>
-</p>
+![](https://streak-stats.demolab.com/?user=PrashUpdates&theme=github_dark_dimmed&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PrashUpdates&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
