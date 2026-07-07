@@ -1,12 +1,60 @@
-# 💫 About Me:
-👋 Hi, I'm Prashant.<br>💻 Passionate about Web Development.<br>🌱 Currently learning HTML, CSS, JavaScript & Python.<br>🚀 Building projects to improve my skills.<br>📖 Always exploring new technologies.
+<h1 align="center">Hi 👋, I'm Prashant</h1>
 
+<h3 align="center">
+Future Full-Stack Web Developer from India 🇮🇳
+</h3>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=PrashUpdates&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=PrashUpdates&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PrashUpdates&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+Passionate about creating modern, responsive and user-friendly websites.
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+# 🚀 About Me
+
+- 🌱 Currently learning **HTML, CSS, JavaScript & Python**
+- 💻 Building projects to improve my coding skills
+- 🎯 Goal: Become a Full-Stack Web Developer
+- 📚 Learning something new every day
+- ⚡ Code • Learn • Build • Repeat
+
+---
+
+# 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=PrashUpdates&theme=github_dark_dimmed&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=PrashUpdates&theme=github-dark)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PrashUpdates&layout=compact&theme=github_dark_dimmed)
+
+---
+
+# 🎯 2026 Goals
+
+✅ Master HTML & CSS
+
+🔄 Learn JavaScript
+
+⏳ Learn Python
+
+🚀 Build Amazing Projects
+
+🌍 Become a Full-Stack Web Developer
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile ⭐
+</p>
