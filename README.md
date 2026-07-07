@@ -51,10 +51,9 @@ const prashant = {
 
 # 🎯 Current Goals
 
-- ✅ Master HTML
 - ✅ Master CSS
-- 🔄 Learn JavaScript
-- ⏳ Learn Python
+- ✅ Master JavaScript
+- ✅ Learn Python
 - 🚀 Build Real Projects
 - 🌐 Become a Full-Stack Web Developer
 
@@ -66,12 +65,6 @@ const prashant = {
 - 📱 Responsive Web Design
 - 🎨 Modern UI Development
 - 💡 Personal Coding Projects
-
----
-
-# 💡 Favorite Quote
-
-> **"Code. Learn. Build. Repeat."**
 
 ---
 
