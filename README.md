@@ -1,26 +1,36 @@
-<h1 align="center">Hi 👋, I'm Prashant</h1>
+# 👨‍💻 Prashant
 
-<h3 align="center">
-Future Full-Stack Web Developer from India 🇮🇳
-</h3>
-
-<p align="center">
-Passionate about creating modern, responsive and user-friendly websites.
-</p>
+> *"Code. Learn. Build. Repeat."*
 
 ---
 
-# 🚀 About Me
+## 🚀 Who Am I?
 
-- 🌱 Currently learning **HTML, CSS, JavaScript & Python**
-- 💻 Building projects to improve my coding skills
-- 🎯 Goal: Become a Full-Stack Web Developer
-- 📚 Learning something new every day
-- ⚡ Code • Learn • Build • Repeat
+```js
+const prashant = {
+    role: "Future Full-Stack Web Developer",
+    learning: ["HTML", "CSS", "JavaScript", "Python"],
+    passion: "Building Modern Websites",
+    goal: "Create Beautiful & Interactive Web Applications",
+    mindset: "Never Stop Learning"
+};
+```
 
 ---
 
-# 🛠️ Tech Stack
+## ⚡ Current Journey
+
+🔹 Learning HTML & CSS
+
+🔹 Preparing for JavaScript
+
+🔹 Exploring Python
+
+🔹 Building Real Projects
+
+---
+
+## 🛠 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,30 +41,26 @@ Passionate about creating modern, responsive and user-friendly websites.
 
 ---
 
-# 📊 GitHub Stats
+## 📈 GitHub Analytics
 
-![](https://github-readme-stats.shion.dev/api?username=PrashUpdates&theme=github_dark_dimmed&show_icons=true)
+![](https://github-readme-stats.shion.dev/api?username=PrashUpdates&show_icons=true&theme=github_dark_dimmed)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=PrashUpdates&theme=github-dark)
+![](https://streak-stats.demolab.com/?user=PrashUpdates&theme=github_dark_dimmed)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PrashUpdates&layout=compact&theme=github_dark_dimmed)
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 Mission
 
-✅ Master HTML & CSS
+✔ Master Frontend Development
 
-🔄 Learn JavaScript
+✔ Build Professional Projects
 
-⏳ Learn Python
+✔ Learn Backend Development
 
-🚀 Build Amazing Projects
-
-🌍 Become a Full-Stack Web Developer
+✔ Become a Full-Stack Web Developer
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile ⭐
-</p>
+### ⭐ Thanks for visiting my profile!
