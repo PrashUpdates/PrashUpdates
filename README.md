@@ -1,8 +1,8 @@
 <h2 align="center">Hi 👋, I'm Prashant</h2>
 
-<h4 align="center">
+<h3 align="center">
 Future Full-Stack Web Developer
-</h4>
+</h3>
 
 <p align="center">
 Passionate about building modern websites, learning new technologies, and creating projects that improve my skills.
