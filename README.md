@@ -8,14 +8,9 @@ Future Full-Stack Web Developer
 Passionate about building modern websites, learning new technologies, and creating projects that improve my skills.
 </p>
 
-<!-- Typing Animation -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Future+Full-Stack+Web+Developer;Currently+Learning+HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Building+Projects+Every+Day;Code.+Learn.+Build.+Repeat."/>
-</p>
-
 ---
 
-# 🚀 About Me
+# 🎐About Me
 
 ```javascript
 const prashant = {
