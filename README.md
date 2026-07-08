@@ -55,18 +55,13 @@ Passionate about building modern websites, learning new technologies, and creati
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrashUpdates&repo=PaletteFlow&theme=github_dark_dimmed&hide_border=false" />
-</p>
-
-
-<p align="center">
   <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrashUpdates&repo=MacOS-Dock-UI&theme=github_dark_dimmed&hide_border=false" />
 </p>
 
-
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrashUpdates&repo=Jelly-Toggle-Switch&theme=github_dark_dimmed&hide_border=false" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrashUpdates&repo=Youtube-Search-Bar&theme=github_dark_dimmed&hide_border=false" />
 </p>
-
 
 
 > **"Success isn't built in a day. It's built every day."**
