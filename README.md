@@ -41,7 +41,7 @@ Passionate about building modern websites, learning new technologies, and creati
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashUpdates&theme=one-dark&hide_border=true)](https://github.com/PrashUpdates)
 
 
-<p align="center">
+<h4> align="center">
   Thanks for visiting my profile ⭐
-</p>
+</h4>
 
