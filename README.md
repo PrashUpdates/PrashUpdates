@@ -68,7 +68,7 @@ Passionate about building modern websites, learning new technologies, and creati
     <img src="https://img.shields.io/badge/Jelly-Toggle-2563EB?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://github.com/PrashUpdates/Youtube-Search">
-    <img src="https://img.shields.io/badge/YouTube_Search_Bar-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/PrashUpdates/Youtube-Search-Bar">
+    <img src="https://img.shields.io/badge/YouTube-Search-2563EB?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
