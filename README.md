@@ -68,3 +68,34 @@ Passionate about building modern websites, learning new technologies, and creati
     <img src="https://img.shields.io/badge/🔍_YouTube--Search--Bar-2563EB?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+
+
+
+
+
+
+t
+
+
+
+
+<p align="center">
+  <a href="https://github.com/PrashUpdates/PaletteFlow">
+    <img height="38" src="https://img.shields.io/badge/🌈_PaletteFlow-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/PrashUpdates/MacOS-Dock-UI">
+    <img height="38" src="https://img.shields.io/badge/🖥️_MacOS--Dock--UI-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/PrashUpdates/Jelly-Toggle-Switch">
+    <img height="38" src="https://img.shields.io/badge/🍮_Jelly--Toggle--Switch-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/PrashUpdates/Youtube-Search-Bar">
+    <img height="38" src="https://img.shields.io/badge/🔍_YouTube--Search--Bar-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
