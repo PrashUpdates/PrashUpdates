@@ -82,3 +82,16 @@ Passionate about building modern websites, learning new technologies, and creati
 <p align="center">
   <img src="https://ghchart.rshah.org/409ba5/PrashUpdates" alt="PrashUpdates GitHub Contribution Chart" />
 </p>
+
+
+---
+
+<h2 align="center">📅 GitHub Contribution Calendar</h2>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/PrashUpdates" alt="Contribution Calendar"/>
+</p>
+
+<p align="center">
+  <sub>Every commit is a step toward becoming a better developer.</sub>
+</p>
