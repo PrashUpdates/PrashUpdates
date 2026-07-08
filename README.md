@@ -48,6 +48,12 @@ Passionate about building modern websites, learning new technologies, and creati
 </div>
 
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=PrashUpdates&theme=onedark&hide_border=true" />
+
+</div>
+
 
 
 
