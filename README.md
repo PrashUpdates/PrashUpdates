@@ -47,7 +47,7 @@ Passionate about building modern websites, learning new technologies, and creati
 
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashUpdates&theme=github-dark&bg_color=212121&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashUpdates&theme=github-dark&bg_color=0d1117&hide_border=true" />
 
 
 
