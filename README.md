@@ -27,7 +27,7 @@ Passionate about building modern websites, learning new technologies, and creati
 
 
 
-## 🔖 Roadmap
+## 🔖 Objectives
 
 ```text
 🎨 Master CSS
