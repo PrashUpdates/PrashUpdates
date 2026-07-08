@@ -35,12 +35,6 @@ Passionate about building modern websites, learning new technologies, and creati
 
 
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/PrashUpdates" alt="Contribution Calendar"/>
-</p>
-
-
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashUpdates&theme=github-dark&hide_border=true)](https://github.com/PrashUpdates)
 
 
