@@ -10,28 +10,6 @@ Passionate about building modern websites, learning new technologies, and creati
 
 ---
 
-## 🔖 About Me
-
-const prashant = {
-    learning: ["HTML", "CSS", "JavaScript", "Python"],
-
-    focus: "Web Development",
-
-    goal: "Build Projects & Improve Every Day"
-};
-
----
-
-### 🌱 Current Journey
-
-- 💻 Learning HTML, CSS, JavaScript & Python
-- 🚀 Building projects to improve my coding skills
-- 🎯 Focusing on clean UI and responsive websites
-- 📚 Learning something new every day
-- ⚡ Consistency over perfection
-
----
-
 # 💻 Tech Stack
 
 <p align="center">
