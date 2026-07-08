@@ -31,7 +31,6 @@ const prashant = {
 
     goal: "Become a Professional Full-Stack Developer",
 
-    motto: "Code • Learn • Build • Repeat"
 };
 ```
 
