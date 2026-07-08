@@ -12,26 +12,25 @@ Passionate about building modern websites, learning new technologies, and creati
 
 ## 🔖 About Me
 
-const prashant = {  
-    role: "Future Full-Stack Web Developer",  
-  
-    currentlyLearning: [  
-        "HTML",  
-        "CSS",  
-        "JavaScript",  
-        "Python"  
-    ],  
-  
-    interests: [  
-        "Web Development",  
-        "Modern UI Design",  
-        "Responsive Websites"  
-    ],  
-  
-    goal: "Become a Professional Full-Stack Developer",  
-  
-};  
+const prashant = {
+    role: "Aspiring Full-Stack Web Developer",
 
+    learning: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python"
+    ],
+
+    focus: [
+        "Web Development",
+        "Building Projects"
+    ],
+
+    goal: "Become a Full-Stack Web Developer"
+};
+
+---
 
 ### 🌱 Current Journey
 
