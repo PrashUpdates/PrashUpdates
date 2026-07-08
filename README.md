@@ -53,17 +53,13 @@ Passionate about building modern websites, learning new technologies, and creati
 
 ## 🫟 Featured Projects
 
-- 🌈 **PaletteFlow**  
-  https://github.com/PrashUpdates/PaletteFlow
+[![PaletteFlow](https://img.shields.io/badge/PaletteFlow-181717?style=for-the-badge&logo=github)](https://github.com/PrashUpdates/PaletteFlow)
 
-- 🖥️ **MacOS-Dock-UI**  
-  https://github.com/PrashUpdates/MacOS-Dock-UI
+[![MacOS-Dock-UI](https://img.shields.io/badge/MacOS--Dock--UI-181717?style=for-the-badge&logo=github)](https://github.com/PrashUpdates/MacOS-Dock-UI)
 
-- 🫧 **Jelly-Toggle-Switch**  
-  https://github.com/PrashUpdates/Jelly-Toggle-Switch
+[![Jelly-Toggle-Switch](https://img.shields.io/badge/Jelly--Toggle--Switch-181717?style=for-the-badge&logo=github)](https://github.com/PrashUpdates/Jelly-Toggle-Switch)
 
-- 🔍 **Youtube-Search-Bar**  
-  https://github.com/PrashUpdates/Youtube-Search-Bar
+[![Youtube-Search-Bar](https://img.shields.io/badge/Youtube--Search--Bar-181717?style=for-the-badge&logo=github)](https://github.com/PrashUpdates/Youtube-Search-Bar)
 
 
 > **"Success isn't built in a day. It's built every day."**
