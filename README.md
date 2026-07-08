@@ -26,10 +26,12 @@ Passionate about building modern websites, learning new technologies, and creati
 
 ## 📌 Current Focus
 
-- 🎨 Master CSS
-- ⚡ Master JavaScript
-- 🐍 Learn Python
-- 🚀 Build Real Projects
+```text
+🎨 Master CSS
+⚡ Master JavaScript
+🐍 Learn Python
+🚀 Build Real Projects
+```
 
 
 
