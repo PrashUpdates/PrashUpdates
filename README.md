@@ -45,12 +45,7 @@ Passionate about building modern websites, learning new technologies, and creati
 
 
 
-
-<img src="https://ghchart.rshah.org/0d1117/PrashUpdates" />
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrashUpdates&theme=github_dark" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashUpdates&theme=github-dark&hide_border=true" />
 
 
 
