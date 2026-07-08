@@ -33,10 +33,6 @@ Passionate about building modern websites, learning new technologies, and creati
 🚀 Build Real Projects
 ```
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/PrashUpdates" alt="Contribution Calendar"/>
-</p>
-
 ---
 
 ### 📊 Stats
@@ -78,10 +74,10 @@ Passionate about building modern websites, learning new technologies, and creati
 </p>
 
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/PrashUpdates" alt="Contribution Calendar"/>
+</p>
 
 
 
-## 📈 Contribution Graph
-
-[![Prashant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashUpdates&theme=green&hide_border=true)](https://github.com/PrashUpdates)
 
