@@ -72,3 +72,13 @@ Passionate about building modern websites, learning new technologies, and creati
     <img src="https://img.shields.io/badge/YouTube-Search-2563EB?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+
+
+---
+
+<h2 align="center">📅 Contribution Calendar</h2>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/PrashUpdates" alt="PrashUpdates GitHub Contribution Chart" />
+</p>
