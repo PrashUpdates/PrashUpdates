@@ -68,23 +68,3 @@ Passionate about building modern websites, learning new technologies, and creati
     <img src="https://img.shields.io/badge/🔍_YouTube--Search--Bar-2563EB?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-
-
-
-
-u
-
-
-
-
-<p align="center">
-  <a href="https://github.com/PrashUpdates/PaletteFlow">
-    <img src="https://img.shields.io/badge/🌈_PaletteFlow-0D6EFD?style=for-the-badge&logo=github&logoColor=white" hspace="6">
-  </a>
-
-  <a href="https://github.com/PrashUpdates/MacOS-Dock-UI">
-    <img src="https://img.shields.io/badge/🖥️_MacOS--Dock--UI-0D6EFD?style=for-the-badge&logo=github&logoColor=white" hspace="6">
-  </a>
-</p>
-
