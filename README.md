@@ -49,6 +49,21 @@ Passionate about building modern websites, learning new technologies, and creati
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PrashUpdates&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img width="420" src="https://github-readme-stats.shion.dev/api?username=PrashUpdates&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
+
+<p align="center">
+  <img width="420" src="https://streak-stats.demolab.com/?user=PrashUpdates&theme=github_dark_dimmed&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PrashUpdates&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 > **"Success isn't built in a day. It's built every day."**
 
