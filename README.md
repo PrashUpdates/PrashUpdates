@@ -37,3 +37,9 @@ Passionate about building modern websites, learning new technologies, and creati
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashUpdates&theme=one-dark&hide_border=true)](https://github.com/PrashUpdates)
 
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Future+Full-Stack+Web+Developer;Building+Modern+Web+Experiences;Always+Learning+New+Technologies" />
+</p>
+
