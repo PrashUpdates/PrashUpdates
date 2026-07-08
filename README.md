@@ -38,16 +38,13 @@ Passionate about building modern websites, learning new technologies, and creati
 
 ## 🪼 Activity
 
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashUpdates&theme=one-dark&hide_border=true&line=00BFFF&point=000000)](https://github.com/PrashUpdates)
-
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashUpdates&theme=github-dark" />
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=PrashUpdates&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashUpdates&theme=github-dark" />
+
 
 
