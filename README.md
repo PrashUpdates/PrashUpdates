@@ -54,15 +54,22 @@ Passionate about building modern websites, learning new technologies, and creati
 ## 🫟 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrashUpdates&repo=PaletteFlow&theme=github_dark_dimmed&hide_border=false" />
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrashUpdates&repo=MacOS-Dock-UI&theme=github_dark_dimmed&hide_border=false" />
+  <a href="https://github.com/PrashUpdates/PaletteFlow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrashUpdates&repo=PaletteFlow&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/PrashUpdates/MacOS-Dock-UI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrashUpdates&repo=MacOS-Dock-UI&theme=github_dark&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrashUpdates&repo=Jelly-Toggle-Switch&theme=github_dark_dimmed&hide_border=false" />
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrashUpdates&repo=Youtube-Search-Bar&theme=github_dark_dimmed&hide_border=false" />
+  <a href="https://github.com/PrashUpdates/Jelly-Toggle-Switch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrashUpdates&repo=Jelly-Toggle-Switch&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/PrashUpdates/Youtube-Search-Bar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrashUpdates&repo=Youtube-Search-Bar&theme=github_dark&hide_border=true" />
+  </a>
 </p>
-
 
 > **"Success isn't built in a day. It's built every day."**
 
