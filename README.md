@@ -10,24 +10,14 @@ Passionate about building modern websites, learning new technologies, and creati
 
 ---
 
-# 🔖 About Me
+## 🔖 About Me
 
 const prashant = {
-    role: "Aspiring Full-Stack Web Developer",
+    learning: ["HTML", "CSS", "JavaScript", "Python"],
 
-    learning: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Python"
-    ],
+    focus: "Web Development",
 
-    focus: [
-        "Web Development",
-        "Building Projects"
-    ],
-
-    goal: "Become a Full-Stack Web Developer"
+    goal: "Build Projects & Improve Every Day"
 };
 
 ---
