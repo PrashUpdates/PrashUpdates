@@ -10,7 +10,7 @@ Passionate about building modern websites, learning new technologies, and creati
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
 
