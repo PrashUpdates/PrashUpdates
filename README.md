@@ -33,6 +33,10 @@ Passionate about building modern websites, learning new technologies, and creati
 🚀 Build Real Projects
 ```
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/PrashUpdates" alt="Contribution Calendar"/>
+</p>
+
 ---
 
 ### 📊 Stats
@@ -73,8 +77,3 @@ Passionate about building modern websites, learning new technologies, and creati
   </a>
 </p>
 
-
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/PrashUpdates" alt="Contribution Calendar"/>
-</p>
