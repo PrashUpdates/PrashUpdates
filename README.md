@@ -27,9 +27,8 @@ Passionate about building modern websites, learning new technologies, and creati
 # 📌 Current Focus
 
 ```text
-📖 Master HTML
 🎨 Master CSS
-⚡ Learn JavaScript
+⚡ Master JavaScript
 🐍 Learn Python
 🚀 Build Real Projects
 🌐 Become a Full-Stack Web Developer
