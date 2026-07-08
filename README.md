@@ -30,7 +30,7 @@ Passionate about building modern websites, learning new technologies, and creati
 ## 🔖 Objectives
 
 ```text
-🎨 Master CSS
+🫟 Master CSS
 ⚡ Master JavaScript
 🐍 Master Python
 🚀 Build Real Projects
