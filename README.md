@@ -51,8 +51,6 @@ Passionate about building modern websites, learning new technologies, and creati
 
 ---
 
-## 🫟 Featured Projects
-
 ## 🪼 Featured Projects
 
 <p align="center">
