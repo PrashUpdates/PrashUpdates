@@ -48,8 +48,10 @@ Passionate about building modern websites, learning new technologies, and creati
 
 ## 📊 Stats
 
+## 📊 Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PrashUpdates&theme=github_dark_dimmed&hide_border=false" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PrashUpdates&theme=github_dark_dimmed&hide_border=false&langs_count=6" />
 </p>
 
 > **"Success isn't built in a day. It's built every day."**
