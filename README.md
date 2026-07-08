@@ -42,16 +42,11 @@ Passionate about building modern websites, learning new technologies, and creati
 
 ![](https://streak-stats.demolab.com/?user=PrashUpdates&theme=github_dark_dimmed&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PrashUpdates&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 📊 Stats
-
-## 📊 Most Used Languages
-
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PrashUpdates&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
+
+---
+
 
 > **"Success isn't built in a day. It's built every day."**
