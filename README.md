@@ -50,7 +50,7 @@ Passionate about building modern websites, learning new technologies, and creati
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=PrashUpdates&theme=onedark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=PrashUpdates&theme=transparent&hide_border=true" />
 
 </div>
 
