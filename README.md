@@ -81,3 +81,15 @@ Passionate about building modern websites, learning new technologies, and creati
 
 
 
+
+r
+
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PrashUpdates&layout=compact&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false" />
+</p>
+
+
+
