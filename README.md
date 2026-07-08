@@ -50,4 +50,6 @@ Passionate about building modern websites, learning new technologies, and creati
 </p>
 
 
-<p align="center"><sub><i>"Success isn't built in a day. It's built every day."</i></sub></p>
+> **"Success isn't built in a day. It's built every day."**
+
+
