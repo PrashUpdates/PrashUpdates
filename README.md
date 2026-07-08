@@ -40,6 +40,5 @@ Passionate about building modern websites, learning new technologies, and creati
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Future+Full-Stack+Web+Developer;Building+Modern+Web+Experiences;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=C9D1D9&center=true&vCenter=true&width=800&lines=Future+Full-Stack+Web+Developer;Building+Modern+Web+Experiences;Passionate+About+Web+Development;Creating+Clean+%26+Responsive+UI;Learning+Something+New+Every+Day;Turning+Ideas+Into+Code" />
 </p>
-
