@@ -59,26 +59,16 @@ Passionate about building modern websites, learning new technologies, and creati
   </a>
 
   <a href="https://github.com/PrashUpdates/MacOS-Dock-UI">
-    <img src="https://img.shields.io/badge/MacOS--Dock--UI-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/MacOS-Dock-2563EB?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/PrashUpdates/Jelly-Toggle-Switch">
-    <img src="https://img.shields.io/badge/Jelly--Toggle--Switch-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jelly-Toggle-2563EB?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://github.com/PrashUpdates/Youtube-Search-Bar">
-    <img src="https://img.shields.io/badge/YouTube--Search--Bar-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/PrashUpdates/Youtube-Search">
+    <img src="https://img.shields.io/badge/YouTube_Search_Bar-2563EB?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-
-
-4
-
-
-
-<a href="https://github.com/PrashUpdates/PaletteFlow">
-  <img src="https://img.shields.io/badge/🎨_Color_Palette-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-</a>
