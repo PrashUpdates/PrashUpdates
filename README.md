@@ -54,7 +54,7 @@ Passionate about building modern websites, learning new technologies, and creati
 ## 📊 Stats
 
 <p align="center">
-  <img width="390" src="https://github-readme-stats.shion.dev/api?username=PrashUpdates&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false" />
+  <img width="370" src="https://github-readme-stats.shion.dev/api?username=PrashUpdates&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
 
 <p align="center">
