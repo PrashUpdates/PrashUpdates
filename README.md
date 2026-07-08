@@ -81,14 +81,6 @@ const prashant = {
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashUpdates&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
 # ⚡ Developer Stats
 
 <p align="center">
@@ -105,61 +97,6 @@ const prashant = {
 
 ---
 
-# 📚 Currently Exploring
-
-```text
-🌐 Responsive Web Design
-
-🎨 Modern UI Design
-
-⚡ JavaScript Fundamentals
-
-🐍 Python Programming
-
-🛠 Git & GitHub Workflow
-```
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</p>
-
----
-
-# 📌 Featured Projects
-
-> 🚧 Coming Soon...
-
-🌐 Modern Website Projects
-
-🎨 Responsive UI Designs
-
-⚡ JavaScript Applications
-
-🐍 Python Projects
-
-📂 More exciting repositories on the way!
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master HTML
-- ✅ Master CSS
-- 🔄 Master JavaScript
-- 🔄 Learn Python
-- 🚀 Build 25+ Projects
-- 🌐 Become a Full-Stack Web Developer
-- ⭐ Contribute to Open Source
-
----
-
-# 💡 Favorite Quote
-
-> **"Success isn't built in a day. It's built every day."**
 
 ---
 
@@ -193,4 +130,10 @@ const prashant = {
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7F00FF,100:E100FF"/>
+
+
+
+
+
+
+> **"Success isn't built in a day. It's built every day."**
