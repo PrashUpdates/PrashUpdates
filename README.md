@@ -75,7 +75,7 @@ Passionate about building modern websites, learning new technologies, and creati
     <img src="https://img.shields.io/badge/🌈_PaletteFlow-2563EB?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
 
   <a href="https://github.com/PrashUpdates/MacOS-Dock-UI">
     <img src="https://img.shields.io/badge/🖥️_MacOS--Dock--UI-2563EB?style=for-the-badge&logo=github&logoColor=white" />
@@ -89,7 +89,7 @@ Passionate about building modern websites, learning new technologies, and creati
     <img src="https://img.shields.io/badge/🍮_Jelly--Toggle--Switch-2563EB?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
 
   <a href="https://github.com/PrashUpdates/Youtube-Search-Bar">
     <img src="https://img.shields.io/badge/🔍_YouTube--Search--Bar-2563EB?style=for-the-badge&logo=github&logoColor=white" />
