@@ -24,7 +24,7 @@ Passionate about building modern websites, learning new technologies, and creati
 
 
 
-## 📌 Current Focus
+## 📍 Roadmap
 
 ```text
 🎨 Master CSS
@@ -32,6 +32,8 @@ Passionate about building modern websites, learning new technologies, and creati
 🐍 Learn Python
 🚀 Build Real Projects
 ```
+
+## 🪼 Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashUpdates&theme=one-dark&hide_border=true)](https://github.com/PrashUpdates)
 
