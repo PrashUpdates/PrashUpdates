@@ -1,6 +1,3 @@
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7F00FF,100:E100FF&text=Prashant&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
-
 <h1 align="center">Hi 👋, I'm Prashant</h1>
 
 <h3 align="center">
