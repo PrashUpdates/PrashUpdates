@@ -8,7 +8,7 @@ Future Full-Stack Web Developer
 Passionate about building modern websites, learning new technologies, and creating projects that improve my skills.
 </p>
 
----
+
 
 ## 💻 Tech Stack
 
@@ -22,7 +22,7 @@ Passionate about building modern websites, learning new technologies, and creati
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
----
+
 
 ### 📌 Current Focus
 
@@ -33,7 +33,7 @@ Passionate about building modern websites, learning new technologies, and creati
 🚀 Build Real Projects
 ```
 
----
+
 
 ## 🪼 Featured Projects
 
