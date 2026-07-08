@@ -10,13 +10,27 @@ Passionate about building modern websites, learning new technologies, and creati
 
 ---
 
-# 🔖 About Me
+## 🔖 About Me
 
-Passionate about web development.
-
-Currently focused on HTML, CSS, JavaScript, and Python.
-
-Building projects while learning something new every day.
+const prashant = {  
+    role: "Future Full-Stack Web Developer",  
+  
+    currentlyLearning: [  
+        "HTML",  
+        "CSS",  
+        "JavaScript",  
+        "Python"  
+    ],  
+  
+    interests: [  
+        "Web Development",  
+        "Modern UI Design",  
+        "Responsive Websites"  
+    ],  
+  
+    goal: "Become a Professional Full-Stack Developer",  
+  
+};  
 
 
 ### 🌱 Current Journey
