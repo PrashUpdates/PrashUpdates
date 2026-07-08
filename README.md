@@ -32,7 +32,7 @@ Passionate about building modern websites, learning new technologies, and creati
 ```text
 🎨 Master CSS
 ⚡ Master JavaScript
-🐍 Learn Python
+🐍 Master Python
 🚀 Build Real Projects
 ```
 
