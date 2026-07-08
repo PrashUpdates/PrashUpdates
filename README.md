@@ -53,13 +53,27 @@ Passionate about building modern websites, learning new technologies, and creati
 
 ## 🫟 Featured Projects
 
-[![PaletteFlow](https://img.shields.io/badge/PaletteFlow-181717?style=for-the-badge&logo=github)](https://github.com/PrashUpdates/PaletteFlow)
+## 🪼 Featured Projects
 
-[![MacOS-Dock-UI](https://img.shields.io/badge/MacOS--Dock--UI-181717?style=for-the-badge&logo=github)](https://github.com/PrashUpdates/MacOS-Dock-UI)
+<p align="center">
 
-[![Jelly-Toggle-Switch](https://img.shields.io/badge/Jelly--Toggle--Switch-181717?style=for-the-badge&logo=github)](https://github.com/PrashUpdates/Jelly-Toggle-Switch)
+<a href="https://github.com/PrashUpdates/PaletteFlow">
+  <img src="https://img.shields.io/badge/🌈_PaletteFlow-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B" />
+</a>
 
-[![Youtube-Search-Bar](https://img.shields.io/badge/Youtube--Search--Bar-181717?style=for-the-badge&logo=github)](https://github.com/PrashUpdates/Youtube-Search-Bar)
+<a href="https://github.com/PrashUpdates/MacOS-Dock-UI">
+  <img src="https://img.shields.io/badge/🖥️_MacOS--Dock--UI-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B" />
+</a>
+
+<a href="https://github.com/PrashUpdates/Jelly-Toggle-Switch">
+  <img src="https://img.shields.io/badge/🍮_Jelly--Toggle--Switch-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B" />
+</a>
+
+<a href="https://github.com/PrashUpdates/Youtube-Search-Bar">
+  <img src="https://img.shields.io/badge/🔍_Youtube--Search--Bar-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B" />
+</a>
+
+</p>
 
 
 > **"Success isn't built in a day. It's built every day."**
