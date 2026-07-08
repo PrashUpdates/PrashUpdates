@@ -53,23 +53,18 @@ Passionate about building modern websites, learning new technologies, and creati
 
 ## 🫟 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/PrashUpdates/PaletteFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrashUpdates&repo=PaletteFlow&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/PrashUpdates/MacOS-Dock-UI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrashUpdates&repo=MacOS-Dock-UI&theme=github_dark&hide_border=true" />
-  </a>
-</p>
+- 🌈 **PaletteFlow**  
+  https://github.com/PrashUpdates/PaletteFlow
 
-<p align="center">
-  <a href="https://github.com/PrashUpdates/Jelly-Toggle-Switch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrashUpdates&repo=Jelly-Toggle-Switch&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/PrashUpdates/Youtube-Search-Bar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrashUpdates&repo=Youtube-Search-Bar&theme=github_dark&hide_border=true" />
-  </a>
-</p>
+- 🖥️ **MacOS-Dock-UI**  
+  https://github.com/PrashUpdates/MacOS-Dock-UI
+
+- 🫧 **Jelly-Toggle-Switch**  
+  https://github.com/PrashUpdates/Jelly-Toggle-Switch
+
+- 🔍 **Youtube-Search-Bar**  
+  https://github.com/PrashUpdates/Youtube-Search-Bar
+
 
 > **"Success isn't built in a day. It's built every day."**
 
