@@ -47,3 +47,7 @@ Passionate about building modern websites, learning new technologies, and creati
 [![GitHub Streak](https://streak-stats.demolab.com?user=PrashUpdates&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashUpdates&theme=github-dark" />
+
+
