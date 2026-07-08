@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Prashant</h2>
+<h1 align="center">Hi 👋, I'm Prashant</h1>
 
 <h3 align="center">
 Future Full-Stack Web Developer
