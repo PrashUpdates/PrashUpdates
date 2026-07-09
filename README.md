@@ -43,7 +43,7 @@ Passionate about building modern websites, learning new technologies, and creati
 </p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PrashUpdates&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=PrashUpdates&show_icons=true&theme=dark" />
 </div>
 
 
