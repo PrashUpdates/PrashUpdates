@@ -43,3 +43,8 @@ Passionate about building modern websites, learning new technologies, and creati
 <img src="https://streak-stats.demolab.com?user=PrashUpdates&theme=dark&hide_border=true" />
 
 </div>
+
+
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38">, I'm Prashant
+</h1>
