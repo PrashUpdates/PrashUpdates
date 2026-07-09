@@ -45,5 +45,10 @@ Passionate about building modern websites, learning new technologies, and creati
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrashUpdates&show_icons=true&theme=dark" />
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrashUpdates&show_icons=true&theme=dark&hide_border=true" />
+</div>
+
+
 
 
