@@ -43,3 +43,8 @@ Passionate about building modern websites, learning new technologies, and creati
 <img src="https://streak-stats.demolab.com?user=PrashUpdates&theme=dark&hide_border=true" />
 
 </div>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman.svg" />
+</p>
