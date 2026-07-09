@@ -46,5 +46,5 @@ Passionate about building modern websites, learning new technologies, and creati
 
 
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38">, I'm Prashant
+  Hi <img src="https://api.iconify.design/fluent/wave-20-filled.svg?color=%23FFD43B" width="34" />, I'm Prashant
 </h1>
