@@ -43,8 +43,3 @@ Passionate about building modern websites, learning new technologies, and creati
 <img src="https://streak-stats.demolab.com?user=PrashUpdates&theme=dark&hide_border=true" />
 
 </div>
-
-
-<h1 align="center">
-  Hi <img src="https://api.iconify.design/fluent/wave-20-filled.svg?color=%23FFD43B" width="34" />, I'm Prashant
-</h1>
