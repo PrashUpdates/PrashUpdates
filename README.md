@@ -44,5 +44,3 @@ Passionate about building modern websites, learning new technologies, and creati
 
 </div>
 
-
-<img src="https://metrics.lecoq.io/PrashUpdates" />
