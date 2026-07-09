@@ -42,9 +42,8 @@ Passionate about building modern websites, learning new technologies, and creati
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashUpdates&theme=github-dark&hide_border=true"/>
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PrashUpdates&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://streak-stats.demolab.com/?user=PrashUpdates&theme=github_dark_dimmed&hide_border=false" />
 </p>
 
 
