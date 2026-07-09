@@ -45,6 +45,4 @@ Passionate about building modern websites, learning new technologies, and creati
 </div>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman.svg" />
-</p>
+<img src="https://metrics.lecoq.io/PrashUpdates" />
