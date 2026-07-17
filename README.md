@@ -37,6 +37,6 @@ Passionate about building modern websites, learning new technologies, and creati
 🚀 Build Real Projects
 ```
 
-## 🪼 Activity
+<!-- ## 🪼 Activity -->
 
 > Building modern web experiences with clean code, responsive design, and continuous learning while working toward becoming a skilled Full-Stack Web Developer.
