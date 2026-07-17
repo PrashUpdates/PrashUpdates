@@ -39,8 +39,10 @@ Passionate about building modern websites, learning new technologies, and creati
 
 ## 🪼 Activity
 
-▸ Building responsive websites
-▸ Writing clean and maintainable code
-▸ Learning JavaScript & Python
-▸ Creating real-world projects
-▸ Growing as a Full-Stack Developer
+```text
+▸ Building Modern & Responsive Web Experiences
+▸ Writing Clean, Scalable and Maintainable Code
+▸ Mastering JavaScript and Python
+▸ Developing Real-World Projects with Practical Skills
+▸ Growing Every Day as a Future Full-Stack Developer
+```
