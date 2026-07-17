@@ -41,7 +41,8 @@ Passionate about building modern websites, learning new technologies, and creati
 
 
 <div align="center">
-  https://github-readme-stats.vercel.app/api?username=PrashUpdates&show_icons=true&theme=github_dark
+
+[![Prashant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashUpdates&theme=github-dark&hide_border=true)](https://github.com/PrashUpdates)
 
 </div>
 
