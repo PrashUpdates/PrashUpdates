@@ -42,9 +42,8 @@ Passionate about building modern websites, learning new technologies, and creati
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PrashUpdates/PrashUpdates/main/github-metrics.svg" alt="GitHub Metrics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashUpdates&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
-
 
 
