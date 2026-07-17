@@ -39,10 +39,8 @@ Passionate about building modern websites, learning new technologies, and creati
 
 ## 🪼 Activity
 
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=PrashUpdates&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
+▸ Building responsive websites
+▸ Writing clean and maintainable code
+▸ Learning JavaScript & Python
+▸ Creating real-world projects
+▸ Growing as a Full-Stack Developer
