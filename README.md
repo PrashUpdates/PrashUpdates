@@ -41,7 +41,8 @@ Passionate about building modern websites, learning new technologies, and creati
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PrashUpdates&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  https://github-readme-stats.vercel.app/api?username=PrashUpdates&show_icons=true&theme=github_dark
+
 </div>
 
 
