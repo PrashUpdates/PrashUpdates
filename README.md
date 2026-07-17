@@ -42,10 +42,9 @@ Passionate about building modern websites, learning new technologies, and creati
 
 <div align="center">
 
-[![Prashant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashUpdates&theme=github-dark&hide_border=true)](https://github.com/PrashUpdates)
+<img src="https://ghchart.rshah.org/PrashUpdates" alt="PrashUpdates GitHub Contribution Chart" />
 
 </div>
-
 
 
 
