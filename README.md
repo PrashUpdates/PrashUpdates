@@ -42,10 +42,7 @@ Passionate about building modern websites, learning new technologies, and creati
 
 <div align="center">
 
-<a href="https://skyline.github.com/PrashUpdates">
-<img src="https://img.shields.io/badge/View-GitHub_Skyline-0D1117?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
+<img src="https://raw.githubusercontent.com/PrashUpdates/PrashUpdates/main/github-metrics.svg" alt="GitHub Metrics" />
 
 </div>
 
